@@ -1,0 +1,32 @@
+ul,
+h3,
+h1 {
+    font-family: Georgia, sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    color: rgb(5, 3, 41);
+}
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-shadow: 2px 3px 5px;
+}
+
+h3 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-shadow: 2px 3px 5px;
+    font-size: 2rem;
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.pic {
+    width: 500px;
+    height: auto;
+    max-width: 800px;
+}
