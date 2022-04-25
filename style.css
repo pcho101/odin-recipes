@@ -1,4 +1,3 @@
-ul,
 h3,
 h1 {
     font-family: Georgia, sans-serif;
@@ -20,9 +19,12 @@ h3 {
     font-size: 2rem;
 }
 
+p,
+ol,
 ul {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
+    color: rgb(71, 7, 23);
 }
 
 .pic {
